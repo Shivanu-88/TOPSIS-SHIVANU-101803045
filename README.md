@@ -1,1 +1,1 @@
-It is a demo package created for educational purposes,
+Topsis project implementation for data science Project
